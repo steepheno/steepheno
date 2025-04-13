@@ -8,9 +8,11 @@
 📮 rjs7289@gmail.com
 
 ## 📚 Studying
-🌱 I’m currently learning (React, JavaScript, TypeScript, Java, Spring)
-👀 I'm planning to study (Java, Spring, Docker, kubernetes) in depth
-🤔 I’m looking for help with Algorithm,,,
+<div>
+  🌱 I’m currently learning (React, JavaScript, TypeScript, Java, Spring)
+  👀 I'm planning to study (Java, Spring, Docker, kubernetes) in depth
+  🤔 I’m looking for help with Algorithm,,,
+</div>
 
 ## 📚 Education
 * 삼성 청년 SW 아카데미(SSAFY) 12기 [24.07 ~ 현재]
