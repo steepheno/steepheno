@@ -5,12 +5,12 @@
 ## 🎉 About me 🎉
 - 글쓰기를 좋아하는 🔥 웹 개발자 🔥
 - 한 줄의 코드에 이야기를 담을 수 있는 그날까지 📈
-- 📮 rjs7289@gmail.com
+📮 rjs7289@gmail.com
 
 ## 📚 Studying
-- 🌱 I’m currently learning (React, JavaScript, TypeScript, Java, Spring)
-- 👀 I'm planning to study (Java, Spring, Docker, kubernetes) in depth
-- 🤔 I’m looking for help with Algorithm,,,
+🌱 I’m currently learning (React, JavaScript, TypeScript, Java, Spring)
+👀 I'm planning to study (Java, Spring, Docker, kubernetes) in depth
+🤔 I’m looking for help with Algorithm,,,
 
 ## 📚 Education
 * 삼성 청년 SW 아카데미(SSAFY) 12기 [24.07 ~ 현재]
