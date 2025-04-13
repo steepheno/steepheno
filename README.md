@@ -1,5 +1,5 @@
 <!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=wavin&color=Gradient&height=300&section=header&text=Welcome%20to%20my%20Github😃&fontSize=60&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=Gradient&height=300&section=header&text=Welcome%20to%20my%20Github😃&fontSize=60&animation=fadeIn)
 
 <!-- Body -->
 
