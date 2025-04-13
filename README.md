@@ -30,15 +30,26 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <!--TypeScript-->
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+</div>
+
+<div style="display: flex; gap: 5px;">
+  <!--Java-->
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 </div>
 
 ### Library & Framework
-<!--React-->
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&Color=white"/>
-<!--Vue-->
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white&Color=white"/>
+<div style="display: flex; gap: 5px;">
+  <!--React-->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&Color=white"/>
+  <!--Vue-->
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white&Color=white"/>
+</div>
+<div style="display: flex; gap: 5px;">
+  <!--Spring-->
+  <!--Spring Boot-->
+</div>
 
 ### DataBase
 <!--MySQL-->
@@ -47,7 +58,6 @@
 ### ETC
 <!-- Jira -->
 <img src="https://img.shields.io/badge/JiraSoftware-0052CC?style=flat-square&logo=JiraSoftware&logoColor=white"/>
-
 
 ## 🌟 Projects
 Updating...
