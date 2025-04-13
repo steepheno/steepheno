@@ -2,7 +2,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22&height=300&section=header&text=Welcome%20to%20my%20Github😃&fontSize=60&animation=fadeIn)
 
 <!-- Body -->
-
 ## 🎉 About me 🎉
 - 글쓰기를 좋아하는 🔥 웹 개발자 🔥
 - 한 줄의 코드에 이야기를 담을 수 있는 그날까지 📈
