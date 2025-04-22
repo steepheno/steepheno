@@ -31,8 +31,11 @@
 </div>
 
 <div style="display: flex; gap: 5px;">
-  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=OpenJDK&logoColor=white">
-  
+  <!--Java-->
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white">
+</div>
+
+<div style="display: flex; gap: 5px;">
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 </div>
