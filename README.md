@@ -31,7 +31,7 @@
 </div>
 
 <div style="display: flex; gap: 5px;">
-  <!--Java-->
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
   
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
