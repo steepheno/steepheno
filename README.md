@@ -57,11 +57,12 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
 ### Collaboratory Tools
-<!-- Gitlab -->
-<img src="https://img.shields.io/badge/GitLab-#FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>
-
-<!-- Jira -->
-<img src="https://img.shields.io/badge/JiraSoftware-0052CC?style=flat-square&logo=JiraSoftware&logoColor=white"/>
+<div style="display: flex; gap: 5px;">
+  <!-- Gitlab -->
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>
+  <!-- Jira -->
+  <img src="https://img.shields.io/badge/JiraSoftware-0052CC?style=flat-square&logo=JiraSoftware&logoColor=white"/>
+</div>
 
 ## 🌟 Projects
 Updating...
