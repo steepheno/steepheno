@@ -65,5 +65,5 @@
 </div>
 
 ## 🌟 Projects
-Updating...
+Updating....
 
