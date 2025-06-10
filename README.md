@@ -56,7 +56,7 @@
 <!--MySQL-->
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
-### Collaboratory Tools
+### Collaboration Tools
 <div style="display: flex; gap: 5px;">
   <!-- Gitlab -->
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>
