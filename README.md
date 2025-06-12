@@ -20,32 +20,38 @@
 ## 🖥️ Tech Stack
 ### Language
 <div style="display: flex; gap: 5px;">
-  <!--HTML5-->
+  <!-- HTML5 -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <!--CSS-->
+  <!-- CSS -->
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  <!--JavaScript-->
+  <!-- JavaScript -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <!--TypeScript-->
+  <!-- TypeScript -->
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+  <!-- TailwindCSS -->
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white&Color=white"/>
 </div>
 
 <div style="display: flex; gap: 5px;">
-  <!--Java-->
+  <!-- Java -->
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white">
 </div>
 
 <div style="display: flex; gap: 5px;">
-  <!--Python-->
+  <!-- Python -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 </div>
 
 ### Library & Framework
 <div style="display: flex; gap: 5px;">
-  <!--React-->
+  <!-- React -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&Color=white"/>
   <!--Vue-->
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white&Color=white"/>
+  <!-- Tanstack Query -->
+  <img src="https://img.shields.io/badge/reactquery-FF4154?style=flat-square&logo=Tanstack Query&logoColor=white&Color=white"/>
+  <!-- Zustand -->
+  
 </div>
 <div style="display: flex; gap: 5px;">
   <!--Spring-->
