@@ -8,14 +8,20 @@
 - 📮 rjs7289@gmail.com
 
 ## 📚 Studying
-* 🌱 I’m currently learning (React, JavaScript, TypeScript, Java)
-* 👀 I'm planning to study (Spring, Docker, kubernetes) in depth
+* 🌱 I’m currently studying (React, JavaScript, TypeScript, Java)
+* 👀 I'm planning to study (Spring, Docker, Kubernetes, AWS) in depth
 * 🤔 I’m looking for help with Algorithm solutions😢,,,
 
-## 📚 Education
+## 🏫 Education
 * 삼성 청년 SW 아카데미(SSAFY) 12기 [2024. 07 ~ 2025. 06]
 * 엔코아 플레이데이터 데이터 애널리시스 29기 [2023. 02 ~ 2023. 08]
+* ICT를 통한 착한상상 프로젝트 - 소상공인을 위한 청년 디지털 튜터링 [2021. 08 ~ 2021. 10]
 * 숭실대학교 정보사회학과 / 정보통계·보험수리학과(복수전공) [2017. 03 ~ 2024. 08]
+
+## 🏆 Awards & Certificates
+* 2025. 05 정보처리기사(필기합격)
+* 2022. 06 ADsP
+* 2021. 11 소상공인을 위한 청년 디지털 튜터링 (장려상, 한국지능정보사회진흥원)
 
 ## 🖥️ Tech Stack
 ### Language
