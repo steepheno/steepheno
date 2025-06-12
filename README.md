@@ -51,6 +51,7 @@
   <!-- Tanstack Query -->
   <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=ReactQuery&logoColor=white&Color=white"/>
   <!-- Zustand -->
+  <img src="https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=Zustand&logoColor=white&Color=white"/>
 </div>
 <div style="display: flex; gap: 5px;">
   <!--Spring-->
