@@ -49,9 +49,8 @@
   <!--Vue-->
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white&Color=white"/>
   <!-- Tanstack Query -->
-  <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=Tanstack Query&logoColor=white&Color=white"/>
+  <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=TanstackQuery&logoColor=white&Color=white"/>
   <!-- Zustand -->
-  
 </div>
 <div style="display: flex; gap: 5px;">
   <!--Spring-->
