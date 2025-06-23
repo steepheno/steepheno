@@ -3,14 +3,15 @@
 
 <!-- Body -->
 ## 🎉 About me 🎉
-- 글쓰기 좋아하는 🔥 FE 개발자 🔥
-- 한 줄의 코드에 이야기를 담을 수 있는 그날까지 📈
+- 글쓰기와 기록을 좋아하는 🔥 FE 개발자 유준선입니다 🔥
+- 한 줄의 코드에도 이야기를 담을 수 있는 그날까지 성장하고자 합니다. 📈
 - 📮 rjs7289@gmail.com
+- 📝 https://velog.io/@jsr2198/posts
 
 ## 📚 Studying
-* 🌱 I’m currently studying (React, JavaScript, TypeScript, Java)
-* 👀 I'm planning to study (Spring, Docker, Kubernetes, AWS) in depth
-* 🤔 I’m looking for help with Algorithm solutions😢,,,
+* 🌱 React, JavaScript, TypeScript, Java 중심으로 학습하고 있습니다.
+* 👀 Docker, Jenkins 기반의 CI/CD 파이프라인 구축에도 관심이 있습니다.
+* 🤔 Spring과 Kubernetes로도 개발 역량을 확장하고자 합니다.
 
 ## 🏫 Education
 * 삼성 청년 SW 아카데미(SSAFY) 12기 [2024. 07 ~ 2025. 06]
