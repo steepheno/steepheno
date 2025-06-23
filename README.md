@@ -74,32 +74,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
 ### Collaboration Tools
-<div style="display: flex; gap: 5px;">
-  <!-- Gitlab -->
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>
-  <!-- Jira -->
-  <img src="https://img.shields.io/badge/JiraSoftware-0052CC?style=flat-square&logo=JiraSoftware&logoColor=white"/>
-</div>
-
-## 🌟 Projects
-[DevPilot](https://github.com/SSAFY-DevPilot/DevPilot) - *"CI/CD 초보자들을 위한 파이프라인 구축 및 배포 자동화 서비스"*
-- 역할 : **FE 리드**
-- 주요 구현 내용
-  - 사용자가 빌드한 프로젝트 목록과 세부 내용을 조회할 수 있는 대시보드 페이지를 구현하였습니다.
-  - FastAPI로 작성된 AI 서버와 클라이언트를 연동하여 AI 챗봇을 완성하였습니다.
-  - 데일리 스크럼을 기록하고, Jira를 활용하여 프로젝트 일정 관리를 담당하였습니다.
----
-
-[DOROLAW](https://github.com/SSAFY-Dorolaw/Dorolaw) - *"AI 기반 교통사고 과실비율 분석 및 법률 상담 매칭 플랫폼"*
-- 역할 : **FE 리드**
-- 주요 구현 내용
-  - AOS 라이브러리를 활용하여 메인 페이지 UI를 구현하였습니다.
-  - 게시판 기능을 총괄하여 사용자들이 작성한 게시글의 CRUD 기능과 페이지네이션을 구현하였습니다.
-  - 과실 비율 분석을 위한 영상 업로드 로직과 EC2 서버로의 저장 로직을 구현하였습니다.
----
-
-[뭔약이유?](https://github.com/BrianPark314/final_project) - *"딥러닝 기반 경구약제 이미지 인식 및 의약품 정보 제공 서비스"*
-- 역할 : **데이터 전처리**, 서비스 화면 UI 구현
+<di용
   - AI Hub에서 다운받은 의약품 레이블 데이터를 Data frame 형식으로 전처리하였습니다.
   - 병용금기약물 데이터를 추가 수집 후 의약품 레이블 데이터와 JOIN하여 활용 가능하도록 전처리하였습니다.
   - 완성형 템플릿을 활용하여 메인 페이지, 촬영 결과 화면, 업로드 화면의 UI를 구현하였습니다.
