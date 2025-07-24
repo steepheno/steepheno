@@ -6,7 +6,7 @@
 - 글쓰기와 기록을 좋아하는 🔥 FE 개발자 유준선입니다 🔥
 - "한 줄의 코드에도 이야기를 담을 수 있는 그날까지" 📈
 - 📮 rjs7289@gmail.com
-<!-- - 📝 https://velog.io/@jsr2198/posts -->
+- 📝 https://velog.io/@jsr2198/posts
 
 
 ## 📚 Studying
